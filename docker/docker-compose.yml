@@ -11,7 +11,7 @@
 # I also have a video going through this here: https://www.youtube.com/watch?v=gEceSAJI_3s
 
 version: "3.8"
-
+name: "boat-project"
 services:
   database:
     # We use a mariadb image which supports both amd64 & arm64 architecture
