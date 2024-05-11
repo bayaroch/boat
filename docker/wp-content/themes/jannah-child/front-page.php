@@ -42,9 +42,7 @@ else :
 
 endif;  ?>
 
-<div>
-	Hello world
-</div>
+
 
 <?php
 
