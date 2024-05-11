@@ -1,0 +1,47 @@
+
+---Downloaded files---
+The import files for: Fitness were successfully downloaded!
+MAX EXECUTION TIME = 30
+Files info:
+Site URL = http://localhost:8080
+Data file = /var/www/html/wp-content/uploads/2024/05/demo-content-import-file_2024-05-11__02-19-35.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 1
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 2
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 3
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+---Importing content---
+
+MAX EXECUTION TIME = 900
+MEMORY LIMIT = 950M
+
+---Debugging---
+After importing the media files from the XML
+
+---pt-ocdi/before_widgets_import---
+
+
+---Completed---
+The Demo has been imported in 15.011396884918econds.

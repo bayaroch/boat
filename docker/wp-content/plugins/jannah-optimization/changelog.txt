@@ -1,0 +1,102 @@
+*** Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.2.8 - 22-04-2024
+- Improvements and minor bug fixes.
+
+Version 1.2.7 - 24-02-2024
+- Fix: Compatibility issue with the Sabai Discuss plugin.
+- Fix: For unknown reason the latest version of Chrome doesn't lazy-load some images.
+- Improvements and minor bug fixes.
+
+Version 1.2.6 - 10-10-2023
+- Improvements and minor bug fixes.
+
+Version 1.2.5 - 12-05-2023
+- Improvements and minor bug fixes.
+
+Version 1.2.4 - 20-04-2023
+- Improvements and minor bug fixes.
+
+Version 1.2.3 - 24-03-2023
+- Improvements and minor bug fixes.
+
+Version 1.2.2 - 12-01-2023
+- Improvements and minor bug fixes.
+
+Version 1.2.1 - 09-12-2022
+- Remove the new additional classic-themes.min.css file added by WordPress from the pages that doesn't use it.
+
+Version 1.2.0 - 06-12-2022
+- New: Option in Jannah Optimization plugin to preload the logo.
+- New: Option in Jannah Optimization plugin to preload the main featured image in the single post page.
+- New: Option in Jannah Optimization plugin to preload images of the first slider on the homepage.
+- New: Option in Jannah Optimization plugin to preload icon fonts.
+- New: Option to lazyLoad Google Adsense Ads (Beta).
+- New: Option to lazyLoad Youtube Videos.
+- New: Add support for Lazyloading iframes.
+- New: Add support for Lazyloading the sections' backgrounds.
+- New: Add support for Lazyloading the mega menus' backgrounds.
+- New: Add support for Lazyloading the images in the masonry pages.
+- Improvements and minor bug fixes.
+
+Version 1.1.0 - 11-02-2022
+- Compatibility with WordPress 5.9.0.
+- Compatibility with WooCommerce 6.2.0.
+- Compatibility with BuddyPress 10.0.0.
+- Compatibility with bbPress 2.6.9.
+
+Version 1.0.12 - 08-05-2021
+- Improvements and minor bug fixes.
+
+Version 1.0.11 - 19-04-2021
+- Improvements and minor bug fixes.
+
+Version 1.0.10 - 15-01-2021
+- Improvements and minor bug fixes.
+
+Version 1.0.9 - 26-12-2020
+- Improvements and minor bug fixes.
+
+Version 1.0.8 - 22-12-2020
+- Improvements and minor bug fixes.
+
+Version 1.0.7 - 20-12-2020
+- Tweak: Preload the main slider images on the homepage to reduce the LCP.
+- Tweak: Preload the featured image in the single post page to reduce the LCP.
+
+Version 1.0.6 - 13-09-2020
+- Tweak: New Method to generate the Critical CSS code to avoid conflicts with CDN services.
+- Tweak: New PHP filter to modify the preload meta for fonts.
+- Tweak: New PHP filter to modify the preload meta for logos.
+- Tweak: New PHP filter to modify the preload DNS-prefetch meta.
+
+Version 1.0.5 - 03-09-2020
+- Fix: Disable Lightbox Resources on Homepage option while the Instagram Footer section is active.
+
+Version 1.0.4 - 02-09-2020
+- Improved: Avoid preloading the retina logo if it is the same image of the normal logo.
+
+Version 1.0.3 - 29-08-2020
+- This version requires Jannah 5.0
+- New: Native Images LazyLoad support.
+- New: Option to disable Font Awesome.
+
+Version 1.0.2 - 05-04-2020
+- Fix: Typography settings bug when the plugin is active.
+
+Version 1.0.1 - 22-01-2020
+- New Test Mode option to disable all custom codes added in the General Tab > Custom Codes section, and all custom Coded Ads added in the theme options page, theme Ad widgets and page builder blocks. 
+
+Version 1.0.0
+- First release
+
+Version 0.3
+- Beta release 3
+
+Version 0.2
+- Beta release 2
+
+Version 0.1
+- Beta release 1
+
