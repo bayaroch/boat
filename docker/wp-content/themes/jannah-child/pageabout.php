@@ -20,8 +20,13 @@ if (TIELABS_HELPER::has_builder()) :
     TIELABS_HELPER::get_template_part('framework/blocks');
 
     // After the page builder contents
-    do_action('TieLabs/after_builder_content');
+    do_action('TieLabs/after_builder_content');  ?>
 
+    <?php ?>
+
+
+
+<?php
 
     /**
      * Normal Page
@@ -39,7 +44,6 @@ else :
     endif; ?>
     <?php ?>
     <aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side" aria-label="<?php esc_html_e('Primary Sidebar', TIELABS_TEXTDOMAIN); ?>">
-
         <div class="paper">
             <?php
             // Display the primary menu

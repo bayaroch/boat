@@ -71,6 +71,8 @@
   background: url("./images/member-shape.png") right bottom no-repeat;
   background-size: contain;
   margin-left: 20px;
+  margin-bottom: 40px;
+  display: block;
 }
 .team-image {
   position: absolute;
@@ -128,4 +130,10 @@
 }
 .main-nav-dark {
   height: 90px;
+}
+.section-title.section-title-big,
+.post-title.entry-title {
+  font-size: 41px;
+  font-weight: 600;
+  color: var(--base-color);
 }
